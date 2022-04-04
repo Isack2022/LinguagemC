@@ -17,7 +17,7 @@ int main (){
     for(int a =0; a <=10;a++){
         icpf[a] = cpf[a] - NCHAR;/*Olhar na Tabela de ASCII para ver o valor do número do char(que é diferente do int 
         que usar a forma decimal exemplo: innt = 2 no char = 50)*/
-    }
+    } 
     for (int i = 0; i <=8; i++){
         total +=icpf[i]*peso10;
         peso10--;//Sempre tirar um número 
