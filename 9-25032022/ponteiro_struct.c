@@ -20,4 +20,4 @@ void main(){
     printf("O nome do cliente é %s\n", pNovoCliente->nome);
     printf("O e-mail do cliente é %s\n", pNovoCliente->email);
     printf("O idade do cliente é %d\n", pNovoCliente->idade); 
-}
+} 

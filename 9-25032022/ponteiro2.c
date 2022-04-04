@@ -8,4 +8,4 @@ void main (){
         printf("%p tem  valor e %d\n", px, *px);
         x++;
     }
-}
+} 

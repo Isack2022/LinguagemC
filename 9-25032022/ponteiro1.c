@@ -5,4 +5,4 @@ void main (){
     int valor = 50;
     int *pvalor = &valor;
     printf("%d é o valor e a posição em memória é %p que é em HEXAdecimal\n", valor, pvalor);
-}
+} 
