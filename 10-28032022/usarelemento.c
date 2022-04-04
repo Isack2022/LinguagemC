@@ -8,4 +8,4 @@ void main(){
     printf("Texto exibir");
     pularLinha(2);
     separadorHT();
-}
+} 

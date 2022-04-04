@@ -5,7 +5,7 @@ void separadorHT(){
         printf("#");
     }
     printf("\n");
-}
+} 
 void separadorLinha(){
     for (int i = 0; i <=70; i++){
         printf("\br");
