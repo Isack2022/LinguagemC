@@ -15,5 +15,5 @@ int main(){
     else{
         printf("Você foi reprovado!\n"); // Aluno reprovado
     }
-    return 0;
+    return 0;  
 }// fim 

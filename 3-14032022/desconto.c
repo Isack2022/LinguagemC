@@ -9,7 +9,7 @@ int main (){
     if (salario > LIMITE){
         printf("O desconto do salário do funcionario vai será de: %.2f\n", (salario*((float)5/(float)100)));
         printf("O novo salário do funcionário será de: %.2f\n", salario -(salario*((float)5/(float)100)));
-    }
+    } 
     else{
         printf("O salário do funcionário não mudar\n");
     }
