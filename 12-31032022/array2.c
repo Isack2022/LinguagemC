@@ -8,4 +8,4 @@ void main (){
     maiorValor(v,10);
     menorValor(v,10);
     ordenacao(v,10);
-}
+} 

@@ -34,4 +34,4 @@ void ordenacao (int valores[],int tamanho){//Vai ordenar o menor número do veto
         }
         valores[i+1] = x;//colocado de volta no vetor J
     }
-}
+} 

@@ -12,4 +12,4 @@ void main(){
       {
         printf("notas[%d] = %.1f\n",i, notas[i]);
       }  
-}
+} 
