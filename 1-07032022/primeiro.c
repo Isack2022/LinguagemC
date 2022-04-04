@@ -6,5 +6,5 @@ int main(){
     scanf("%d", &j);                             //Ler j, NAO digitar NADA entre %d 
     printf("Valor de j é:%d\n",j);
     return 0;
-}//fim
+}//fim 
  

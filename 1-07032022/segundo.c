@@ -7,5 +7,5 @@ int main(){
     printf("Caracter digitador é:%c\n",car);       //mostrou na tela o valor de car
     return 0;  
     
-}//fim
+}//fim 
  
