@@ -6,7 +6,7 @@ int main(){
 
     printf("Digite valor do distancia(em quilometro) e dar ENTER:\n");//Usuario escrever
     scanf("%d",&dis);//Ler o espaço
-
+ 
     printf("Digite valor do tempo e dar ENTER:\n"); //Usuario escrever
     scanf("%d",&temp); //Ler o tempo
 

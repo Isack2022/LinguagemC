@@ -6,7 +6,7 @@ int main(){
     int vald; //porcetagem
     printf("Informe o valor do produto e dar ENTER:\n");//Valor do produto
     scanf("%f",&valpr);//Ler o valor do produto
-
+ 
     printf("Informe a porcetagem do desconto e dar ENTER:\n");//Valor da porcetagem
     scanf("%f", &por);//Ler porcetagem
     

@@ -9,6 +9,6 @@ int main(){
     scanf("%f",&b);//Ler o valor B
     c = a / b;//Calculo de divisao
     printf("O resultado é: %.2f \n", c);//Resultado da divisao
-    return 0; 
+    return 0;  
 }//fim 
  

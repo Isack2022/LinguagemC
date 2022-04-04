@@ -8,7 +8,7 @@ int main(){
     scanf("%d", &n1);                                    //ler o primeiro número, NAO digitar NADA entre %d 
     printf("\nDigite um segundo valor inteiro e Enter:\n");//mostrar na tela
     scanf("%d", &n2);                                      //Ler o segundo número,NAO digita Nada entre %d
-
+ 
     soma = n1 + n2;
     printf("Valor da soma é: %d\n",soma); //Soma
     sub = n1 - n2;
