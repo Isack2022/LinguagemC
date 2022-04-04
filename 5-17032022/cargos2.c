@@ -16,7 +16,7 @@ int main (){
     printf("\t5 - Auxiliar\n");
     printf("--------------------------------------------------------------------------\n");
     scanf("%d",&opcao);
-    switch (opcao){
+    switch (opcao){ 
     case 1:
     printf("O salario do Direitor é de R$15.000,00\n");
         break;
