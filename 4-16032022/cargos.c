@@ -12,7 +12,7 @@ int main (){
     }
     else if (strcmp(cargo,"Gerente")==0){//comparação
         printf("Seu salário é R$12.000,00\n");//mostrar na tela
-    }
+    } 
     else if (strcmp(cargo,"Analista")==0){//comparação
         printf("Seu salário é R$8.000,00\n");//mostrar na tela
     }

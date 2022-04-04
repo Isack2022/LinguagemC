@@ -7,4 +7,4 @@ int main (){
     scanf("%s",username);// Ler o printf usando %s que ler a variavel char quando tem mais de um caracter
     printf("Seu nome: %s\n", username);//Mostrando o nome completo
     return 0;
-}//fim
+}//fim 
