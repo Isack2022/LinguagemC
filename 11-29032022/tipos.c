@@ -10,7 +10,7 @@ typedef char nome[30];
 idade pet;
 idade dono;
 nome pets;
-nome donos;
+nome donos; 
 
 
 idade x = 10;

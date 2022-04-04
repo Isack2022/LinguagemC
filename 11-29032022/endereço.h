@@ -10,4 +10,4 @@ typedef struct dados_endereco
     char complemento[20];
     char cep[10];
     char bairro[30];
-}endereco;
+}endereco; 

@@ -9,7 +9,7 @@ void gravar(){
 O tipo FILE é utlizado para criar arquivos.
 Este arquivo deve ser alocado em memória, portanto, sua
 criação deve ser feita como ponteiro
-*/
+*/ 
     FILE *arquivo;
 
     //A função fopen é reponsável por criar um arquivo

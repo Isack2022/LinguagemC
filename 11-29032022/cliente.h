@@ -8,5 +8,5 @@ typedef struct cliente{
     char datanascimento[10];
     char telefone[20];
 
-}cliente;
+}cliente; 
 
