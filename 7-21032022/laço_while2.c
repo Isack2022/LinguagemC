@@ -11,4 +11,4 @@ int main (){
         scanf("%d", &x);
     }
     return 0; 
-}
+} 

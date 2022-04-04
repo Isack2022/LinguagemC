@@ -8,4 +8,4 @@ int main (){
         }
         p++;
     }while(p <= 50);
-}
+} 
