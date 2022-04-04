@@ -8,4 +8,4 @@ typedef struct dardos_curso{
     char data_de_inicio[10];
     char data_de_termino[10];
     float preco;
-}dardos_curso;
+}dardos_curso; 

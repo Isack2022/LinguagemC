@@ -48,7 +48,7 @@ void gravar(){
     fgets(pdes->horario,5,stdin);
 
     printf("Entre com o horario de funcionamento da unidade:\n");
-    scanf("%d", &pdes->telefone,stdin);
+    scanf("%d", &pdes->telefone,stdin); 
 
 
     //Colocado o resultado no arquivo criando
