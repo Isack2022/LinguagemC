@@ -16,4 +16,4 @@ void main (){
     soma = n1 + n2;// A soma 
     printf("O resultado da soma: %d\n",soma);//O resultado da soma mostrando na tela
 
-}//fim
+}//fim 

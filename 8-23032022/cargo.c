@@ -23,7 +23,7 @@ void main (){
      else if (cargo == 3)// se não for 1 e 2 então vai ter um reajuste de 5%
         reajuste = (salAtual*5)/10;
      else// se não for nenhum 1, 2 e 3 então vai ter um reajuste de 12%
-        reajuste = (salAtual*12)/10;
+        reajuste = (salAtual*12)/10; 
         printf("O reajuste é: %f\n", reajuste);
         printf("O seu novo salário: %f\n", salAtual + reajuste); 
     

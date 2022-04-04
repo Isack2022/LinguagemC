@@ -41,5 +41,5 @@ void main (){
       else{
          printf("Região Sul [IDA E VOLTA] = 550,00");
       }
-   }
+   } 
 }

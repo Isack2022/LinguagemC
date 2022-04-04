@@ -15,5 +15,5 @@ void main (){
 
     if (n > 20){// Se o número for maior que 20
         printf("O número %d é maior que 20\n", n);
-    }
+    } 
 }

@@ -13,4 +13,4 @@ void main (){
             printf("%d\n",j*i);
         }
     }
-}
+} 

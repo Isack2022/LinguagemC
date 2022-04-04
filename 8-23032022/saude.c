@@ -26,5 +26,5 @@ void main (){
     printf("O voluntario %s está apto!\n", nome);
     else
     printf("O voluntario %s não está apto!\n", nome);
-
+ 
 }

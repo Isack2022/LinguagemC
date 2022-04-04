@@ -14,4 +14,4 @@ void main(){
     dados e incluir o caracter de nova linha na string, ela ainda especifica o tamanho máximo da string de entrada.*/
     fgets(produto, 30,stdin);
     printf("Produto: %s\n", produto); //mostra na tela
-}
+} 

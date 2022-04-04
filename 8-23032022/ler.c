@@ -12,4 +12,4 @@ void main (){
     printf("Informe o nome do produto:\n");//Mostrar na tela
     scanf("%s", &produto);// ler varivel char (caracter)
     printf("Produto: %s\n", produto); //mostra na tela
-}//fim
+}//fim 

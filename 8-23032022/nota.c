@@ -13,4 +13,4 @@ void main (){
     //A media deve ser calculada apos interação
     media = soma / 10;
     printf("A media é: %f\n", media);
-}
+} 
